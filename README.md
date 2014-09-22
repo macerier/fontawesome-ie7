@@ -1,7 +1,8 @@
 fontawesome-ie7
 ===============
 
-javascript fix for fontawesome in ie7
+javascript fix for Font Awesome `Version 4.2.0` in older Internet Explorer as IE6 and IE7
+
 
 ## Use
 
@@ -10,3 +11,4 @@ javascript fix for fontawesome in ie7
 	<script type="text/javascript" src="fa-ie7.js"></script>
 <![endif]-->
 ```
+
